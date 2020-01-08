@@ -1,0 +1,33 @@
+name: r-cricket
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-knitr
+  - r-devtools
+  - r-rvest
+  - r-lubridate
+  - r-selectr
+  - r-BH
+  - r-tidyverse
+  - r-DT
+  #- r-xts
+  #- r-TTR
+  #- r-quadprog
+  #- r-quantmod
+  #- r-fracdiff
+  #- r-lmtest
+  #- r-nnet
+  #- r-timeDate
+  #- r-tseries
+  #- r-urca
+  #- r-zoo
+  #- r-RcppArmadillo
+  #- r-plotrix
+  #- r-scatterplot3d
+  #- r-forecast
+  #- r-XML
+  #- r-htmltab
+  #- r-ggrepel
